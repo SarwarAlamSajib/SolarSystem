@@ -1,0 +1,36 @@
+.solarsystem{
+	color:white;
+	border: 3px solid olive;
+	border-radius:5px;
+	background: #142b47;
+	padding: 5px;
+	font-size:16px;
+    margin-bottom: 5px;
+}
+
+h3{
+	color: olive;
+	background: #142b47;
+	padding: 10px;
+	margin-top: 0px;
+}
+
+.iMarcury{
+	
+	border: 3px solid black;
+	border-radius:5px;
+	background: white;
+	padding: 5px;
+	font-size:16px;
+    margin-bottom: 5px;
+}
+
+.iVenus{
+	
+	border: 3px solid black;
+	border-radius:5px;
+	background: white;
+	padding: 5px;
+	font-size:16px;
+    margin-bottom: 5px;
+}
